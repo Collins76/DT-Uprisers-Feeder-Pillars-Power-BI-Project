@@ -17,6 +17,8 @@ The use of cards for headline metrics (7,647 good uprisers, 1,101 bad uprisers, 
 
 #### The dashboard employs a diverse and appropriate mix of visualization types:
 
+![Image](https://github.com/user-attachments/assets/c3b98c58-550a-4e30-ae52-7a4d170626de)
+
 The line graph tracking good versus bad uprisers over time effectively shows trends and patterns
 The pie charts for upriser condition (87.44% good, 12.59% bad) and feeder pillar condition (64.6% good, 24.0% excellent, 7.0% poor, 2.2% critical, 2.2% no assessment) provide immediate proportion insights
 The map visualization adds valuable geographic context, showing the distribution of inspections across Lagos with color-coding by business unit
