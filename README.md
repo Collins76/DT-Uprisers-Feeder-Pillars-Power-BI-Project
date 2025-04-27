@@ -7,6 +7,8 @@ The Power BI dashboard(https://app.powerbi.com/links/_RYdXGSsJP?ctid=581816b2-c0
 
 ### Dashboard Design and Layout:
 
+![Image](https://github.com/user-attachments/assets/e3ece493-e24f-40c3-a8e8-cf9a62224cf4)
+
 The dashboard employs a well-organized grid layout that effectively compartmentalizes different data categories. The consistent color scheme—primarily using green for positive indicators and red for negative ones—creates visual harmony while ensuring intuitive interpretation. The segmentation between key metrics, field officer performance, and business unit analysis provides a logical flow of information.
 
 The use of cards for headline metrics (7,647 good uprisers, 1,101 bad uprisers, etc.) effectively highlights the most important figures. However, some areas appear slightly crowded, particularly in the field officers and public DTs sections, which could benefit from additional white space or hierarchical organization.
