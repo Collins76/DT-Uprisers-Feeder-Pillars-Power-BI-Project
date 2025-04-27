@@ -29,6 +29,8 @@ The "Good Upriser Percentage Over Time" graph effectively combines trend lines f
 
 #### The dashboard presents several critical operational metrics:
 
+![Image](https://github.com/user-attachments/assets/4e767745-6ce2-4fa6-bbee-bdeeb4110e55)
+
 Upriser Performance: 7,647 good uprisers (87.44%) versus 1,101 bad uprisers (12.59%) out of 8,513 total inspections
 Record Validation: 4,663 valid records versus 171 invalid records
 Distribution Transformer Tracking: 4,834 total captured DTs
